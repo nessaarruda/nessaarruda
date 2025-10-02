@@ -1,11 +1,11 @@
 ### Here is what I'm currently working on
 
-- 🔭 I’m currently working at ... Sovrn
+- 🔭 I’m currently open to new opportunities
 - 🌱 I’m currently learning ... Javascript/React
-- 👯 I’m looking to collaborate on ... Back-end Develpoment
+- 👯 I’m looking to collaborate on ... Back-end Development
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... vanessa.arruda1987@gmail.com
-- 😄 Pronouns: ... she/her
+- 😄 Pronouns: ... then/them
 - ⚡ Fun fact: ... I'm Brazilian
 
 [Read about my professional background on LinkedIn](https://www.linkedin.com/in/vanessa-alves-de-arruda/)
